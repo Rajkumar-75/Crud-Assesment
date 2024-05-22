@@ -1,0 +1,32 @@
+header{
+  text-align: center;
+}
+.shadow1{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.blur-container {
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); 
+  border-radius: 10px; 
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
+}
+
+.btns{
+  width: 130px;
+  background:green;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+
+
+.container{
+  background: transparent;
+}
+
+
+
+
